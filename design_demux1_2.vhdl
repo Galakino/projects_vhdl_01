@@ -11,6 +11,7 @@ entity demux1_2 is
 end demux1_2;
 
 architecture arch_1 of demux1_2 is
+  
 begin
 
   -- Implementação da arquitetura demux1_2
